@@ -61,6 +61,6 @@ I love learning new technologies, exploring modern frameworks, and creating scal
 
 ## 📊 GitHub Stats
 
-![Ikram Qazi GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikramqazi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramqazi&layout=compact&theme=radical)
+![Ikram Qazi GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkramQazi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IkramQazi&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikramqazi&theme=radical)
