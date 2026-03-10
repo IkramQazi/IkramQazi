@@ -41,7 +41,7 @@ I love learning new technologies, exploring modern frameworks, and creating scal
 |------|--------------|----------|-----------|
 | React Internee | TechInsects | Aug 2024 – Sep 2024 | Learning React & building dynamic web apps, exploring JS ecosystem |
 | Web Developer | Freelance | Apr 2025 – Dec 2025 | Built Flask web apps, React Native habit tracker, and used Git version control |
-| Junior Software Developer | TechInsects | Feb 2026 – Ongoing | Building SaaS apps integrated with backends and APIs |
+| Junior Software Developer | TechInsects | Feb 2026 – Mar 2026 | Building SaaS apps integrated with backends and APIs |
 
 ## 💻 Projects
 
