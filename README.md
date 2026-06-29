@@ -7,7 +7,7 @@ Building AI pipelines that ingest millions of rows of data into unified sources 
 ---
 
 ## 🚀 Career Snapshot
-I'm a Jr. AI Engineer and Mobile & MERN Web Developer with a passion for building scalable, data-driven applications. Currently working on AI pipelines — scraping, mapping, and ingesting massive datasets into unified data sources that power model training and intelligent systems.
+I'm a Jr. AI Engineer and Mobile & MERN Web Developer with a passion for building intelligent, scalable applications. Currently building agentic AI systems, integrating LLM APIs, automating complex business workflows, and engineering data pipelines that unify millions of records into a single source of truth.
 
 Bachelor of Science in Computer Science from the **Institute of Space Technology** (3.65 CGPA, Final-Year Project Medalist).
 
