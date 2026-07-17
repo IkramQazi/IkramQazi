@@ -90,4 +90,4 @@ Bachelor of Science in Computer Science from the **Institute of Space Technology
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=IkramQazi&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=IkramQazi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![GitHub Trophies](https://vercel.app)](https://github.com)
