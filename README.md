@@ -67,9 +67,9 @@ Bachelor of Science in Computer Science from the **Institute of Space Technology
 | Project | Tech Stack | Description |
 |---------|-----------|-------------|
 | DrSmartGo (Android & iOS Health App) | React Native, Expo, iOS/Android | Frontend developer on a cross-platform patient health app: built and stabilized calendar/date-time pickers, EMR-integrated medicine & lab report flows (accept/reject, dosage/frequency sync), vitals tracking with bookmarks and BMI charting, push notifications, multi-language (incl. Urdu) PDF report generation and sharing, and full iOS/Android UI parity fixes |
-| EvaScan (Final Year Project — Gold Medalist) | React Native, Node.js, Firebase | AI-powered mobile app with backend APIs |
-| HeartWise (Health & Fitness Android App) | Java, APIs, CRUD, Phone Sensors | Step counter health tracking app |
-| VetShepra | Chatbot | Chatbot platform for veterinary doctors training (Freelance outsourced work) |
+| EvaScan (Final Year Project — Gold Medalist) | React Native, Node.js, Firebase | Role-based (doctor/patient) Android app for cancer risk awareness and diagnosis support. Patients log lifestyle factors to get a risk score from an integrated prediction model, and can run Mammogram/MRI scans through an integrated model to help locate tumours; results can be shared with doctors, alongside appointment booking and patient history tracking. Built the full mobile app; AI models were integrated (not trained) by me |
+| HeartWise (Health & Fitness Android App) | Java, APIs, AI Chatbot, CRUD, Phone Sensors | Health & fitness Android app tracking calories, diet, and steps, with an integrated AI chatbot for health Q&A and a BMI history view with graphs. Includes an AI model trained to predict estimated time-to-goal for weight loss |
+| VetSherpa (Freelance, Outsourced) | Chatbot, ElevenLabs (Text-to-Speech) | UI-based chatbot platform for veterinary students, featuring a PDF-to-quiz generator, conversation/quiz history tracking, and text-to-voice narration via ElevenLabs |
 
 ---
 
