@@ -85,9 +85,9 @@ Bachelor of Science in Computer Science from the **Institute of Space Technology
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=IkramQazi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)<br/>
-![](https://streak-stats.demolab.com/?user=IkramQazi&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=IkramQazi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Ikram Qazi GitHub Stats](https://github-stats-extended.vercel.app/api?username=IkramQazi&show_icons=true&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=IkramQazi&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IkramQazi&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IkramQazi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
