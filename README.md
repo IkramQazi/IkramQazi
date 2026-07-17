@@ -56,9 +56,9 @@ Bachelor of Science in Computer Science from the **Institute of Space Technology
 | Role | Organization | Duration | Key Focus |
 |------|--------------|----------|-----------|
 | Jr. AI Engineer | Trajan.ai | Mar 2026 – Present | Building agentic AI systems, integrating ChatGPT APIs, automating business workflows and document processing, data pipeline engineering (scraping → mapping → PostgreSQL ingestion), AWS Lambda |
-| Junior Software Developer | TechInsects | Feb 2026 – Mar 2026 | Building SaaS apps integrated with backends and APIs |
-| Web Developer | Freelance | Apr 2025 – Dec 2025 | Built Flask web apps, React Native habit tracker, Git version control |
-| React Internee | TechInsects | Aug 2024 – Sep 2024 | Learning React & building dynamic web apps, exploring JS ecosystem |
+| Junior Software Developer | TechInsects | Feb 2026 – Mar 2026 | React Native frontend on DrSmartGo (patient health app): EMR-integrated medicine & lab report flows, vitals tracking, calendar/date-time fixes, push notifications, multi-language PDF report generation, iOS/Android UI parity |
+| Software Developer | Freelance | May 2025 – Nov 2025 | Delivered full-stack web and mobile solutions using React, React Native, and Tailwind CSS, including a healthcare application with integrated AI models for intelligent decision support. Built RESTful APIs with Flask and MySQL, incorporated third-party API automation, and developed web scraping scripts for structured data extraction |
+| Web Development Internee | TechInsects | Aug 2024 – Sep 2024 | Built responsive web applications using HTML, CSS, JavaScript, Tailwind CSS, and React, applying component-based architecture and modern frontend best practices. Developed a real-time WebSocket chat app and a social media-style platform with MongoDB, JWT authentication, and user authorization |
 
 ---
 
