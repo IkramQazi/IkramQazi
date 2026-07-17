@@ -87,7 +87,7 @@ Bachelor of Science in Computer Science from the **Institute of Space Technology
 ## 📊 GitHub Stats
 ![Ikram Qazi GitHub Stats](https://github-stats-extended.vercel.app/api?username=IkramQazi&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=IkramQazi&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IkramQazi)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IkramQazi&theme=radical)](https://git.io/streak-stats)
  
  
 ## 🏆 GitHub Trophies
