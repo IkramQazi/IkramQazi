@@ -2,7 +2,7 @@
 **Jr. AI Engineer | React Native Developer | MERN Developer**  
 Building AI pipelines that ingest millions of rows of data into unified sources — powering model training, delivery systems, and intelligent applications.
 
-📍 Rawalpindi, Pakistan | 📧 [ikramqazidev@gmail.com](mailto:ikramqazidev@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ikramqazi) | 🌐 [Portfolio](https://ikramqazi.vercel.app/)
+📍 Rawalpindi, Pakistan | 📧 [ikramqazidev@gmail.com](mailto:ikramqazidev@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ikramqazi) | 🌐 [Portfolio](https://www.ikramqazidev.neflify.app)
 
 ---
 
@@ -85,6 +85,9 @@ Bachelor of Science in Computer Science from the **Institute of Space Technology
 ---
 
 ## 📊 GitHub Stats
-![Ikram Qazi GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkramQazi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IkramQazi&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikramqazi&theme=radical)
+![](https://github-readme-stats.shion.dev/api?username=IkramQazi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)<br/>
+![](https://streak-stats.demolab.com/?user=IkramQazi&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=IkramQazi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=IkramQazi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
