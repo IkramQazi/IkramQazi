@@ -66,6 +66,7 @@ Bachelor of Science in Computer Science from the **Institute of Space Technology
 
 | Project | Tech Stack | Description |
 |---------|-----------|-------------|
+| DrSmartGo (Android & iOS Health App) | React Native, Expo, iOS/Android | Frontend developer on a cross-platform patient health app: built and stabilized calendar/date-time pickers, EMR-integrated medicine & lab report flows (accept/reject, dosage/frequency sync), vitals tracking with bookmarks and BMI charting, push notifications, multi-language (incl. Urdu) PDF report generation and sharing, and full iOS/Android UI parity fixes |
 | EvaScan (Final Year Project — Gold Medalist) | React Native, Node.js, Firebase | AI-powered mobile app with backend APIs |
 | HeartWise (Health & Fitness Android App) | Java, APIs, CRUD, Phone Sensors | Step counter health tracking app |
 | VetShepra | Chatbot | Chatbot platform for veterinary doctors training (Freelance outsourced work) |
