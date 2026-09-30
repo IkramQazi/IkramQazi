@@ -3,7 +3,8 @@
 Building AI pipelines that ingest millions of rows of data into unified sources — powering model training, delivery systems, and intelligent applications.
 
 📍 Rawalpindi, Pakistan | 📧 [ikramqazidev@gmail.com](mailto:ikramqazidev@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ikramqazi) | 🌐 [Portfolio](https://www.ikramqazidev.neflify.app)
-![](https://komarev.com)
+![Profile Views](https://komarev.com)
+
 
 ---
 
