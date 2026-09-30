@@ -12,7 +12,7 @@ Building AI pipelines that ingest millions of rows of data into unified sources 
   <a href="mailto:ikramqazidev@gmail.com"><img src="https://img.shields.io/badge/Email-ikramqazidev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/IkramQazi"><img src="https://img.shields.io/badge/GitHub-IkramQazi-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/ikramqazi"><img src="https://img.shields.io/badge/LinkedIn-Ikram%20Qazi-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://ikramqazi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ikramqazidev-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
+  <a href="https://ikramqazi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ikramqazi-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <p align="center">
