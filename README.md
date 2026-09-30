@@ -1,10 +1,27 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IkramQazi&label=Profile%20Views&color=0F766E&style=for-the-badge" alt="Profile views">
+</p>
+
 # Hello, I'm Ikram Qazi
 **Jr. AI Engineer | React Native Developer | MERN Developer**  
 Building AI pipelines that ingest millions of rows of data into unified sources — powering model training, delivery systems, and intelligent applications.
 
-📍 Rawalpindi, Pakistan | 📧 [ikramqazidev@gmail.com](mailto:ikramqazidev@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ikramqazi) | 🌐 [Portfolio](https://www.ikramqazidev.neflify.app)
-![Profile Views](https://komarev.com)
+📍 Rawalpindi, Pakistan
 
+<p align="center">
+  <a href="mailto:ikramqazidev@gmail.com"><img src="https://img.shields.io/badge/Email-ikramqazidev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/IkramQazi"><img src="https://img.shields.io/badge/GitHub-IkramQazi-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/ikramqazi"><img src="https://img.shields.io/badge/LinkedIn-Ikram%20Qazi-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://ikramqazidev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-ikramqazidev-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-0D1117?style=flat-square&logo=openai&logoColor=00A67E" alt="Generative AI">
+  <img src="https://img.shields.io/badge/AI%20Agents-0F172A?style=flat-square" alt="AI Agents">
+  <img src="https://img.shields.io/badge/Data%20Pipelines-1F2937?style=flat-square&logo=postgresql&logoColor=4169E1" alt="Data Pipelines">
+  <img src="https://img.shields.io/badge/Web%20Scraping-111827?style=flat-square&logo=scrapy&logoColor=60A839" alt="Web Scraping">
+  <img src="https://img.shields.io/badge/AWS%20Lambda-18181B?style=flat-square&logo=awslambda&logoColor=FF9900" alt="AWS Lambda">
+</p>
 
 ---
 
